@@ -27,7 +27,7 @@ This repository contains a Python script demonstrating how to build and tune a m
    - `talos`
 3. cifar-100-python dataset
 
-You must download the [cifar-100-python](https://www.cs.toronto.edu/~kriz/cifar.html) and place it at top level of the project under the `cifar-100-pyton/` directory.
+You must download the [cifar-100-python](https://www.cs.toronto.edu/~kriz/cifar.html) and place it at top level of the project under the `cifar-100-python/` directory.
 
 ## Setup
 
