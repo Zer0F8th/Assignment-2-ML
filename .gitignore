@@ -1,0 +1,11 @@
+bin/* 
+cifar100_experiment/* 
+cifar-100-python/*
+cifar-100-python
+include/* 
+lib/* 
+lib64/*
+pyvenv.cfg 
+share/*
+lib64
+
